@@ -1,0 +1,44 @@
+div.back{
+    
+    margin-inline: 10%;
+    margin-block: 10%;
+    background-color: white;
+    height: 80%;
+    width: 80%;
+    
+    align-content: center;
+    
+}
+div.title{
+    text-align: center;
+
+}
+div.intro{
+    margin-inline: 10%;
+    margin-block: 10px;
+    
+}
+
+
+img.omelette{
+    margin-right: 100px;
+    margin-block: 20px;
+    height: 400px;
+    width: 800px;
+    
+    border-radius: 20px;
+}
+body{
+    background-color: bisque;
+}
+div.preparation{
+    margin-inline: 10%;
+    background-color: moccasin;
+    padding-inline: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+div.introdu{
+    margin-inline: 10%;
+    margin-block: 10px;
+}
